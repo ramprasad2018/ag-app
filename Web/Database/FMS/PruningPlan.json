@@ -1,0 +1,52 @@
+{
+    "name": "Maize Crop Pruning Plan",
+    "stages": [
+    {
+    "name": "Seedling stage",
+    "pruningMethod": "Thinning",
+    "purpose": "Remove excess seedlings to allow the remaining plants to grow larger and healthier."
+    },
+    {
+    "name": "Vigorous vegetative stage",
+    "pruningMethod": "Topdressing",
+    "purpose": "Apply a layer of compost or manure to the soil around the plants to encourage root growth."
+    },
+    {
+    "name": "Tassel initiation stage",
+    "pruningMethod": "Fertilization",
+    "purpose": "Apply a fertilizer high in nitrogen and phosphorus to promote tassel development."
+    },
+    {
+    "name": "Silking stage",
+    "pruningMethod": "Irrigation",
+    "purpose": "Water the plants regularly to ensure that the silks are able to absorb moisture."
+    },
+    {
+    "name": "Grain filling stage",
+    "pruningMethod": "Pest control",
+    "purpose": "Monitor the plants for pests and diseases and treat any problems as soon as possible."
+    },
+    {
+    "name": "Maturity stage",
+    "pruningMethod": "Harvest",
+    "purpose": "Harvest the corn when the kernels are fully ripe."
+    }
+    ],
+    "tips": [
+    {
+    "tip": "Use sharp pruning shears or a knife to make clean cuts."
+    },
+    {
+    "tip": "Avoid cutting into the main stem of the plant."
+    },
+    {
+    "tip": "Dispose of prunings properly to prevent the spread of pests and diseases."
+    },
+    {
+    "tip": "Prune in the morning or evening when the weather is cool and dry."
+    },
+    {
+    "tip": "Be careful not to over-prune, as this can stress the plants and reduce yields."
+    }
+    ]
+    }
